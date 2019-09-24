@@ -1,1 +1,1 @@
-# memberioo-theme
+npx tailwind build styles.css -o output.css
